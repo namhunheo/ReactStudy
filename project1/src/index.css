@@ -66,12 +66,3 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
-
-@font-face {
-  font-family: "NanumPenScript";
-  src: url("/NamumPenScript-Regular.ttf");
-}
-
-body * {
-  font-family: "NanumPenScript";
-}
